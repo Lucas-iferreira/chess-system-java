@@ -14,6 +14,8 @@ public abstract class Piece {
 
     public abstract boolean[][] possibleMoves();
 
+    //rook methods ->template method - Conseguimos fornecer uma implementação padrão
+    //de um metodo que depende de um metodo abstrato
     public boolean possibleMove(Position position) {
         return possibleMoves()[position.getRow()][position.getColumn()];
     }
