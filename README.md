@@ -20,10 +20,10 @@ Foi desenvolvido como parte prática do curso "Java COMPLETO" do professor Néli
 - Padrão de Camadas​
   
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/Lucas-iferreira/chess-system-java/blob/main/assets/chess-system-design.png)
+![Modelo Conceitual](assets/chess-system-design.png)
 
 ## Modelo console
-![Console](https://github.com/Lucas-iferreira/chess-system-java/blob/main/assets/console.jpeg)
+![Console](assets/console.jpeg)
 
 # Tecnologias utilizadas
 
